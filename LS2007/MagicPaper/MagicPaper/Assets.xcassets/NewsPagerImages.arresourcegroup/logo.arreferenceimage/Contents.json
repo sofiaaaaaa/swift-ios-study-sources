@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "only_logo_big.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 0.90000000000000002
+  }
+}
